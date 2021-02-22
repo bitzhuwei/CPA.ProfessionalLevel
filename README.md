@@ -20,21 +20,11 @@
 
 :white_circle: [政府及民间非营利组织会计](CPA6in1/1会计/政府及民间非营利组织会计.md)
 
-:white_circle: [专题一：股份支付、可转换公司债券、金融资产和每股收益](CPA6in1/1会计/专题一_股份支付+可转换公司债券+金融资产+每股收益.md)
-
-:white_circle: [专题二：或有事项、债务重组、非货币性资产交换、企业合并和商誉减值等](CPA6in1/1会计/专题二_或有事项+债务重组+非货币性资产交换+企业合并+商誉减值等.md)
-
-:white_circle: [专题三：以摊余成本计量的金融资产、投资性房地产、职工薪酬、或有事项、收入等与所得税结合](CPA6in1/1会计/专题三_以摊余成本计量的金融资产+投资性房地产+职工薪酬+或有事项+收入等+所得税.md)
-
-:white_circle: [专题四：金融资产、收入、投资性房地产、股份支付、差错更正及合并财务报表](CPA6in1/1会计/专题四_金融资产+收入+投资性房地产+股份支付+差错更正及合并财务报表.md)
-
-:white_circle: [专题五：收入、职工薪酬、持有待售等有关差错更正](CPA6in1/1会计/专题五_收入+职工薪酬+持有待售等有关差错更正.md)
-
-:white_circle: [专题六：长期股权投资与合并财务报表](CPA6in1/1会计/专题六_长期股权投资+合并财务报表.md)
-
-:white_circle: [专题七：长期股权投资、企业合并和合并财务报表](CPA6in1/1会计/专题七+长期股权投资+企业合并+合并财务报表.md)
-
 :white_circle: [企业会计准则](CPA6in1/1会计/企业会计准则.md)
+
+:white_circle: <https://github.com/bitzhuwei/CPA.Exercise.Accountant>
+
+:white_circle: <https://gitee.com/bookcases/CPA.Exercise.Accountant>
 
 ## 1.2. :cn:税法
 
@@ -53,6 +43,10 @@
 :white_circle: [车辆购置税法](CPA6in1/2税法/车辆购置税法.md) ┊ [车船税法](CPA6in1/2税法/车船税法.md) ┊ [船舶吨税法](CPA6in1/2税法/船舶吨税法.md)
 
 :white_circle: [国际税收税务管理实务](CPA6in1/2税法/国际税收税务管理实务.md) ┊ [税收征收管理法](CPA6in1/2税法/税收征收管理法.md) ┊ [税务行政法制](CPA6in1/2税法/税务行政法制.md)
+
+:white_circle: <https://github.com/bitzhuwei/CPA.Exercise.Tax>
+
+:white_circle: <https://gitee.com/bookcases/CPA.Exercise.Tax>
 
 ## 1.3. :triangular_ruler: 经济法
 
@@ -82,6 +76,10 @@
 
 :white_circle: [会计师事务所业务质量控制](CPA6in1/4审计/会计师事务所业务质量控制.md) ┊ [职业道德基本原则和概念框架](CPA6in1/4审计/职业道德基本原则和概念框架.md) ┊ [审计业务对独立性的要求](CPA6in1/4审计/审计业务对独立性的要求.md)
 
+:white_circle: <https://github.com/bitzhuwei/CPA.Exercise.Audit>
+
+:white_circle: <https://gitee.com/bookcases/CPA.Exercise.Audit>
+
 ## 1.5. :telescope: 财务成本管理
 
 :white_circle: [财务管理基本原理](CPA6in1/5财管/C01财务管理基本原理.md) ┊ [财务报表分析和财务预测](CPA6in1/5财管/C02财务报表分析和财务预测.md) ┊ [价值评估基础](CPA6in1/5财管/C03价值评估基础.md)
@@ -100,6 +98,10 @@
 
 :white_circle: [全面预算](CPA6in1/5财管/C18全面预算.md) ┊ [责任会计](CPA6in1/5财管/C19责任会计.md) ┊ [业绩评价](CPA6in1/5财管/C20业绩评价.md) ┊ [管理会计报告](CPA6in1/5财管/C21管理会计报告.md)
 
+:white_circle: <https://github.com/bitzhuwei/CPA.Exercise.FinancialManagement>
+
+:white_circle: <https://gitee.com/bookcases/CPA.Exercise.FinancialManagement>
+
 ## 1.6. :seat: 公司战略与风险管理
 
 :white_circle: [战略与战略管理](CPA6in1/6战略/战略与战略管理.md)
@@ -108,9 +110,17 @@
 
 :white_circle: [公司治理](CPA6in1/6战略/公司治理.md) ┊ [风险与风险管理](CPA6in1/6战略/风险与风险管理.md)
 
+:white_circle: <https://github.com/bitzhuwei/CPA.Exercise.Strategy>
+
+:white_circle: <https://gitee.com/bookcases/CPA.Exercise.Strategy>
+
 ## 1.7. :gem:综合.会计税法审计
 
+（暂无）
+
 ## 1.8. :crystal_ball:综合.财管战略经济法
+
+（暂无）
 
 # 2. 说明
 
