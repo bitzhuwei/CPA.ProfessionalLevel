@@ -160,7 +160,8 @@ namespace md.PostProcess {
 			}
 			{ // 将真题答案放到单独的.md文件中
 				if (fullname.Contains("专题")
-					|| fullname.EndsWith(".本章真题.md")) {
+					|| fullname.Contains(".本章真题.md")
+					|| fullname.Contains("考前模拟测试题")) {
 					StringBuilder builder = Convert本章真题(fullname);
 					File.WriteAllText(fullname, builder.ToString());
 				}
